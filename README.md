@@ -8,7 +8,7 @@ This repository contains a computer vision project focused on vehicle detection 
 
 - **Count.py**: This script captures video frames and computes the difference between consecutive frames to detect motion. It then identifies contours and calculates centroids to count the number of vehicles passing through a defined line.
 
-- **Unfiltered Images**: This folder contains images without any filters applied. For more details, refer to the [readme](https://github.com/vatsa01/Computer_Vision_Project/blob/main/Unfiltered_Images/readme.md) inside the folder.
+- **Unfiltered Images**: This folder contains images without any filters applied.
 
 - **Background_Subtracted_Images**: Contains images that have undergone background subtraction to highlight the vehicles.
 
